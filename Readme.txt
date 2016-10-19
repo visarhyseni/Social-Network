@@ -1,1 +1,1 @@
-This is a basic social networking website
+This is a basic social networking website.
